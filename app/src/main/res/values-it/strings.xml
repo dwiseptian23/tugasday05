@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dwiseptianquiz1</string>
+    <string name="nama_pembeli">nome dell\'acquirente</string>
+    <string name="tipe_pelanggan">tipo di membro</string>
+    <string name="gold">oro</string>
+    <string name="silver">argento</string>
+    <string name="biasa">"non un membro "</string>
+    <string name="proses">processi</string>
+    <string name="kode_barang">"codice articolo "</string>
+    <string name="jumlah_barang">"la quantità di merce "</string>
+    <string name="selamat_datang">BENVENUTO</string>
+    <string name="transaksi_hariini">"transazione odierna "</string>
+    <string name="nama_barang">"nome della merce "</string>
+    <string name="harga">prezzo</string>
+    <string name="total_harga">"prezzo totale "</string>
+    <string name="diskon_harga">"sconto sul prezzo "</string>
+    <string name="diskon_member">"sconto per i membri "</string>
+    <string name="jumlah_bayar">importo del pagamento</string>
+    <string name="terima_kasih_telah_berbelanja">Grazie per lo shopping</string>
+    <string name="bagikan">condividere</string>
+</resources>

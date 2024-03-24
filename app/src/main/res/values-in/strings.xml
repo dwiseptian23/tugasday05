@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dwiseptianquiz1</string>
+    <string name="nama_pembeli">nama pembeli</string>
+    <string name="tipe_pelanggan">tipe member</string>
+    <string name="gold">emas</string>
+    <string name="silver">perak</string>
+    <string name="biasa">tidak ada member</string>
+    <string name="proses">proses</string>
+    <string name="kode_barang">kode barang</string>
+    <string name="jumlah_barang">jumlah barang</string>
+    <string name="selamat_datang">selamat datang</string>
+    <string name="transaksi_hariini">transaksi hari ini</string>
+    <string name="nama_barang">nama barang</string>
+    <string name="harga">harga</string>
+    <string name="total_harga">total harga</string>
+    <string name="diskon_harga">diskon harga</string>
+    <string name="diskon_member">diskon member</string>
+    <string name="jumlah_bayar">jumlah bayar</string>
+    <string name="terima_kasih_telah_berbelanja">terima kasih telah berbelanja</string>
+    <string name="bagikan">bagikan</string>
+</resources>

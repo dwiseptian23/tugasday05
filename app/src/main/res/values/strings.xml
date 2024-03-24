@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">dwiseptianquiz1</string>
+    <string name="nama_pembeli">Buyer</string>
+    <string name="tipe_pelanggan">member type :</string>
+    <string name="gold">gold</string>
+    <string name="silver">silver</string>
+    <string name="biasa">no member</string>
+    <string name="proses">process</string>
+    <string name="kode_barang">code item :</string>
+    <string name="jumlah_barang">item amount</string>
+    <string name="selamat_datang">WELCOME</string>
+    <string name="transaksi_hariini">transaction today</string>
+    <string name="nama_barang">item name :</string>
+    <string name="harga">price :</string>
+    <string name="total_harga">total price :</string>
+    <string name="diskon_harga">discount price :</string>
+    <string name="diskon_member">discount member :</string>
+    <string name="jumlah_bayar">total pay :</string>
+    <string name="terima_kasih_telah_berbelanja">THANK YOU FOR SHOPPING HERE!</string>
+    <string name="bagikan">share</string>
+</resources>
